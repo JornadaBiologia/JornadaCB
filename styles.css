@@ -285,14 +285,38 @@ nav ul li a {
   max-height:100%;
 }
 .novee{
-  background-color:#B0E0E6;
-  font-size: 210%;
+  background-color:#D0F0C0;
+  font-size: 140%;
   font-family: Roboto;
-
 }
+.noveee{
+  background-color:#F5F5DC;
+  font-size: 140%;
+  font-family: Roboto;
+}
+.noveeee{
+  background-color:#FFFDD0;
+  font-size: 140%;
+  font-family: Roboto;
+  width:auto;
+}
+.noveeeee{
+  background-color:#eaeef4;
+  font-size: 140%;
+  font-family: Roboto;
+  width:auto;
+}
+.novaaaa{
+  background-color:#bac8c9;
+  font-size: 140%;
+  font-family: Roboto;
+  width:auto;
+}
+
+
 .nove{
   background-color:#fff;
-  font-size: 140%;
+  font-size: 110%;
   font-family: Roboto;
 
 }
